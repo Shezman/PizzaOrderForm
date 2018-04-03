@@ -1,0 +1,19 @@
+.jumbotron {
+    background-image:url(../Images/pizzajumbo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  };
+
+.container {
+    background-image:url(../Images/pizzajumbo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .jumbotron h1 {
+    font-family: sans-serif;
+    font-variant: small-caps;
+    color: white;
+}
